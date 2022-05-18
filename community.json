@@ -227,6 +227,14 @@
       "documentation_url": "https://norns.community/authors/justmat/boingg"
     },
     {
+      "project_name": "borgue",
+      "project_url": "https://github.com/sixolet/borgue",
+      "author": "sixolet",
+      "description": "cyborg fugue",
+      "discussion_url": "https://llllllll.co/t/borgue/55304",
+      "tags": ["granular", "looper"]
+    },
+    {
       "project_name": "bounds",
       "project_url": "https://github.com/justmat/bounds",
       "author": "Mat (Justmat)",
@@ -1407,6 +1415,14 @@
       "description": "an 8 voice lofi percussion synthesizer and sequencer",
       "discussion_url": "https://llllllll.co/t/31828",
       "tags": ["drum", "synth", "sequencer"]
+    },
+    {
+      "project_name": "sacred_cyborg_harming",
+      "project_url": "https://github.com/sixolet/sacred_cyborg_harmony",
+      "author": "sixolet & nonverbalpoetry",
+      "description": "a sacred choir sings with you. they are part human part machine.",
+      "discussion_url": "https://llllllll.co/t/sacred-cyborg-harmony/54334",
+      "documentation_url": "https://github.com/sixolet/sacred_cyborg_harmony"
     },
     {
       "project_name": "sam",
